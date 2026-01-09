@@ -24,7 +24,7 @@ This is a comprehensive **Data Analysis & GUI Application** built with Python. I
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/KULLANICI-ADIN/REPO-ADIN.git](https://github.com/KULLANICI-ADIN/REPO-ADIN.git)
+    git clone [https://github.com/zeynepgurbuzz/quote-scraping-visualizer.git](https://github.com/zeynepgurbuzz/quote-scraping-visualizer.git)
     ```
 2.  Install the required libraries:
     ```bash
